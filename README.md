@@ -96,4 +96,4 @@ The paper also discusses the broader literature on gender participation in agric
 
 ## File
 
-[View the Research Paper](Research_Paper.pdf)
+[View the Research Paper](research%20paper.pdf)
