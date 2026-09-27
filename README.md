@@ -94,6 +94,3 @@ The analysis finds a statistically significant relationship between male employm
 
 The paper also discusses the broader literature on gender participation in agriculture, access to resources, education, technology and agricultural productivity.
 
-## File
-
-[View the Research Paper](research%20paper.pdf)
